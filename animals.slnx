@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="animals/animals.vcxproj" Id="a4450bcb-ba14-4000-b226-7c7a1af28c1f" />
+</Solution>
